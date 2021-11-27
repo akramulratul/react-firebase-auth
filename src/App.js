@@ -35,6 +35,7 @@ function App() {
       <br />
       <button onClick={handleGoogleSignIn}>Google sign in</button>
       <button onClick={handleGoogleSignIn}>Google sign in</button>
+      <button onClick={handleGoogleSignIn}>Google sign in</button>
     </div>
   );
 }
